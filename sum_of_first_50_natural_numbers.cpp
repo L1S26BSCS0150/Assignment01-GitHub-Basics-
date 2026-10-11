@@ -8,4 +8,5 @@ sum +=i;
 }
 cout << "sum of first 50 natural numbers:" << sum << endl;
 return 0;
+  
 }
