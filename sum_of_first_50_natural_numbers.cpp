@@ -1,3 +1,4 @@
+// Program to calculate sum of first 50 natural numbers
 #include <iostream>
 using namespace std;
 int main () {
